@@ -213,14 +213,15 @@ html {
 }
 
 .home .home-img {
-    width: 90%;
+    width: 100%;
     height: auto;
+    margin-top: 8rem;
     margin-bottom: 3rem;
 }
 
 .home .home-img img {
     height: 100%;
-    width: 80%;
+    width: 100%;
 }
 /* End Home Section */
 
